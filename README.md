@@ -26,6 +26,10 @@ npm run build
 npm run start
 ```
 
+## Demo
+Puedes ver una demostración del proyecto en funcionamiento aquí:
+https://mobo-proof.surge.sh
+
 ## Notas adicionales
 - Asegúrate de tener todos los archivos de configuración presentes en la raíz del proyecto antes de ejecutar los comandos.
 - Si encuentras algún problema durante la instalación, verifica la compatibilidad con tu versión de Node.js.
