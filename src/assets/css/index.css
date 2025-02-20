@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.rotate-image {
+  transform: rotate(10deg);
+}
