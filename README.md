@@ -1,35 +1,31 @@
-# Mi Proyecto
+# Configuración del Proyecto
 
-Este es un proyecto creado con Vite, React y TailwindCSS. El objetivo es crear una aplicación web moderna, rápida y eficiente utilizando estas herramientas.
+## Requisitos previos
+- Instala la última versión de Node.js (versión 20.x o superior)
+  - Descarga disponible en: https://nodejs.org/es/download/
 
-## Requisitos Previos
+## Comandos para el proyecto
 
-Antes de comenzar, asegúrate de tener los siguientes programas instalados:
+### Instalación de dependencias
+```
+npm install
+```
 
-- [Node.js](https://nodejs.org/) (Recomendado: LTS)
-- [npm](https://npmjs.com/) (Se instala automáticamente con Node.js)
+### Ejecutar en modo desarrollo
+```
+npm run dev
+```
 
-## Instalación
+### Compilar para producción
+```
+npm run build
+```
 
-Sigue estos pasos para clonar el proyecto y configurarlo en tu máquina local:
+### Ejecutar versión compilada
+```
+npm run start
+```
 
-1. **Clonar el repositorio:**
-
-   Abre una terminal y ejecuta el siguiente comando para clonar el repositorio (reemplaza `<url_del_repositorio>` con la URL de tu repositorio):
-
-   ```bash
-   git clone <url_del_repositorio>
-
-2. **Acceder al directorio del proyecto:**
-
-    Una vez clonado el repositorio, accede al directorio del proyecto con el siguiente comando:
-    
-   ```bash
-   cd mi-proyecto
-3. **Instalar las dependencias del proyecto:**
-
-    Una vez dentro del directorio, instala todas las dependencias necesarias usando npm:
-    ```bash
-   npm install
-   
-4. 
+## Notas adicionales
+- Asegúrate de tener todos los archivos de configuración presentes en la raíz del proyecto antes de ejecutar los comandos.
+- Si encuentras algún problema durante la instalación, verifica la compatibilidad con tu versión de Node.js.
